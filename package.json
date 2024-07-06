@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ga-reth/react-native-fast-image.git"
+        "url": "git+https://github.com/ga-reth/react-native-fast-image.git"
     },
     "license": "(MIT AND Apache-2.0)",
     "author": "Gareth<hi@gareth-v.com>",
